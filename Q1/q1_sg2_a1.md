@@ -28,4 +28,4 @@ Please list possible sub-problems:
 Step 3: Define Computational Thinking Approaches
 
 Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
-Print item names and prices
+
