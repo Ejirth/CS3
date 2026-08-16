@@ -1,7 +1,6 @@
-# Annex C — Code Quality Assessment Worksheet
+Code Quality Assessment 
 
-**Section:** ____________________________  
-**Score:** ____________________________  
+C# / Name: #07 Espiritu, Eliezer Marc #08 Intal, Kurt Ashe #09 Legaspi, Daniel Date: August 16, 2026
 
 **C# / Name:** ____________________________  
 **Date:** ____________________________
