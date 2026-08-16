@@ -6,7 +6,7 @@ Problem:
 
 Finding the highest (maximum) number from a given list of numbers.
 PseudoCode 1 & PseudoCode2  
-![PseudoCodes](q1_sg2_a2_PseudoCodes)  
+![PseudoCodes](q1_sg2_a2_PseudoCodes.jpeg)  
 
 1. Efficiency  
 Which algorithm is faster when the list of numbers is very large? Why?  
