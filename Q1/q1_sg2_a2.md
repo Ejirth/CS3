@@ -8,5 +8,5 @@ Finding the highest (maximum) number from a given list of numbers.
 PseudoCode 1
 
 PseudoCode 2
-1. Efficiency
+1. Efficiency  
 Which algorithm is faster when the list of numbers is very large? Why?  
