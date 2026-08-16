@@ -9,4 +9,4 @@ PseudoCode 1
 
 PseudoCode 2
 1. Efficiency
-Which algorithm is faster when the list of numbers is very large? Why?
+Which algorithm is faster when the list of numbers is very large? Why?  
