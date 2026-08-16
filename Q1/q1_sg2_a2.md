@@ -28,6 +28,8 @@ Algorithm FindMax1(numbers)
    Return max
 
 EndAlgorithm
+
+
 PseudoCode 2
 ```text
 Algorithm FindMax2(numbers)
