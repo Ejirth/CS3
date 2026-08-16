@@ -29,6 +29,7 @@ Algorithm FindMax1(numbers)
 
 EndAlgorithm
 
+---
 
 PseudoCode 2
 ```text
@@ -57,3 +58,5 @@ Algorithm FindMax2(numbers)
    EndFor
 
 EndAlgorithm
+
+---
