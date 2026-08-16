@@ -26,7 +26,7 @@ Please list possible sub-problems:
 4. Slow Transaction Processing Speed
 
 Step 3: Define Computational Thinking Approaches
-![Table](TABLE.jpeg)
+![Table](Pictures/q1_sg2_a1_Table.jpeg)
 
 Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
 ![Pseudocode](PSEUDOCODE.jpeg)
